@@ -1,0 +1,69 @@
+{
+  "Environments": [
+    "RaptorHollow"
+  ],
+  "NPCs": [
+    {
+      "Weight": 1,
+      "SpawnBlockSet": "Soil",
+      "Id": "Rex_Cave"
+    },
+    {
+      "Weight": 10,
+      "SpawnBlockSet": "Soil",
+      "Id": "Raptor_Cave"
+    },
+    {
+      "Weight": 10,
+      "SpawnBlockSet": "Soil",
+      "Id": "Snapdragon"
+    },
+    {
+      "Weight": 10,
+      "SpawnBlockSet": "Soil",
+      "Id": "Pterodactyl"
+    },
+    {
+      "Id": "Archaeopteryx",
+      "Weight": 10,
+      "SpawnBlockSet": "Soil"
+    },
+    {
+      "Id": "Jellyfish_Man_Of_War",
+      "Weight": 4,
+      "SpawnFluidTag": "Water",
+      "SpawnBlockSet": "Soil"
+    },
+    {
+      "Id": "Jellyfish_Blue",
+      "Weight": 10,
+      "SpawnFluidTag": "Water",
+      "SpawnBlockSet": "Soil"
+    },
+    {
+      "Weight": 6,
+      "Id": "Skrill",
+      "SpawnBlockSet": "Leaves"
+    },
+    {
+      "Id": "Snake_Rattle",
+      "Weight": 2,
+      "SpawnBlockSet": "Soil"
+    },
+    {
+      "Id": "Trillodon",
+      "Weight": 4,
+      "SpawnBlockSet": "Soil"
+    },
+    {
+      "Id": "Frostgill",
+      "Weight": 1,
+      "SpawnBlockSet": "Soil",
+      "SpawnFluidTag": "Water"
+    }
+  ],
+  "DayTimeRange": [
+    0,
+    24
+  ]
+}

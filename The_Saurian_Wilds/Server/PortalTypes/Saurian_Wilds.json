@@ -1,0 +1,13 @@
+{
+  "InstanceId": "WeekRaptor",
+  "Description": {
+    "DisplayName": "The Saurian Wilds",
+    "FlavorText": "Welcome to Jungle!! ",
+    "ThemeColor": "#23970cec",
+    "SplashImage": "DefaultArtwork.png",
+    "Tips": [
+      "You'll find yourself in the ancient times when dinosaurs roamed the earth, in their nests, and amidst the vegetation.",
+      "Turn up the music for a better experience!"
+    ]
+  }
+}

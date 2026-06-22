@@ -1,0 +1,268 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 0,
+  "anchorY": 0,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": -5,
+      "y": -1,
+      "z": -2,
+      "name": "*Wood_Softwood_Roof_State_Definitions_Inverted_Corner_Right",
+      "rotation": 1
+    },
+    {
+      "x": -5,
+      "y": -1,
+      "z": -1,
+      "name": "Wood_Softwood_Roof",
+      "rotation": 1
+    },
+    {
+      "x": -5,
+      "y": -1,
+      "z": 0,
+      "name": "Wood_Softwood_Roof",
+      "rotation": 1
+    },
+    {
+      "x": -5,
+      "y": -1,
+      "z": 1,
+      "name": "Wood_Softwood_Roof",
+      "rotation": 1
+    },
+    {
+      "x": -5,
+      "y": -1,
+      "z": 2,
+      "name": "*Wood_Softwood_Roof_State_Definitions_Inverted_Corner_Left",
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": -1,
+      "z": -2,
+      "name": "Wood_Softwood_Roof"
+    },
+    {
+      "x": -4,
+      "y": -1,
+      "z": -1,
+      "name": "Wood_Softwood_Roof_Flat",
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": -1,
+      "z": 0,
+      "name": "Wood_Softwood_Roof_Flat",
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": -1,
+      "z": 1,
+      "name": "Wood_Softwood_Roof_Flat",
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": -1,
+      "z": 2,
+      "name": "Wood_Softwood_Roof",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": -2,
+      "name": "Wood_Softwood_Roof"
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": -1,
+      "name": "Wood_Softwood_Roof_Flat",
+      "rotation": 1
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": 0,
+      "name": "Wood_Softwood_Roof_Flat",
+      "rotation": 1
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": 1,
+      "name": "Wood_Softwood_Roof_Flat",
+      "rotation": 1
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": 2,
+      "name": "Wood_Softwood_Roof",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": -2,
+      "name": "Wood_Softwood_Roof"
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": -1,
+      "name": "Wood_Softwood_Roof_Flat",
+      "rotation": 1
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": 0,
+      "name": "Wood_Softwood_Roof_Flat",
+      "rotation": 1
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": 1,
+      "name": "Wood_Softwood_Roof_Flat",
+      "rotation": 1
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": 2,
+      "name": "Wood_Softwood_Roof",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": -2,
+      "name": "*Wood_Softwood_Roof_State_Definitions_Inverted_Corner_Right"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": -1,
+      "name": "Wood_Softwood_Roof",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 0,
+      "name": "Wood_Softwood_Roof",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 1,
+      "name": "Wood_Softwood_Roof",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 2,
+      "name": "*Wood_Softwood_Roof_State_Definitions_Inverted_Corner_Left",
+      "rotation": 2
+    }
+  ],
+  "entities": [
+    {
+      "Components": {
+        "PreventItemMerging": {},
+        "Prop": {},
+        "Transform": {
+          "Position": {
+            "X": -3.034423828125,
+            "Y": -0.618804931640625,
+            "Z": -0.14923095703125
+          },
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": -2.1495068073272705,
+            "Roll": 0.0
+          }
+        },
+        "PreventPickup": {},
+        "EntityScale": {
+          "Scale": 5.0
+        },
+        "Item": {
+          "Item": {
+            "Id": "Egg_Spawner_Sheep",
+            "Quantity": 1,
+            "Durability": 0.0,
+            "MaxDurability": 0.0,
+            "OverrideDroppedItemAnimation": true
+          },
+          "StackDelay": 1.5,
+          "PickupDelay": 0.5,
+          "PickupThrottle": 0.0,
+          "RemovedByPlayerPickup": false
+        },
+        "PrefabCopyable": {},
+        "HeadRotation": {
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": -2.1495048999786377,
+            "Roll": 0.0
+          }
+        }
+      }
+    },
+    {
+      "Components": {
+        "PreventItemMerging": {},
+        "Prop": {},
+        "Transform": {
+          "Position": {
+            "X": -2.09149169921875,
+            "Y": -0.6910476684570312,
+            "Z": 0.9805908203125
+          },
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": 0.2983963191509247,
+            "Roll": 0.0
+          }
+        },
+        "PreventPickup": {},
+        "EntityScale": {
+          "Scale": 5.0
+        },
+        "Item": {
+          "Item": {
+            "Id": "Egg_Spawner_Sheep",
+            "Quantity": 1,
+            "Durability": 0.0,
+            "MaxDurability": 0.0,
+            "OverrideDroppedItemAnimation": true
+          },
+          "StackDelay": 1.5,
+          "PickupDelay": 0.5,
+          "PickupThrottle": 0.0,
+          "RemovedByPlayerPickup": false
+        },
+        "PrefabCopyable": {},
+        "HeadRotation": {
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": 0.2983963191509247,
+            "Roll": 0.0
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,324 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 3,
+  "anchorY": 13,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": 1,
+      "y": 0,
+      "z": -1,
+      "name": "Wood_Tropicalwood_Planks_Half",
+      "rotation": 7
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 0,
+      "name": "Wood_Tropicalwood_Planks_Half",
+      "rotation": 7
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 1,
+      "name": "Wood_Tropicalwood_Planks_Half",
+      "rotation": 7
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -2,
+      "name": "Wood_Tropicalwood_Planks_Half",
+      "rotation": 6
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -1,
+      "name": "Wood_Tropicalwood_Roof_Flat",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 0,
+      "name": "Wood_Tropicalwood_Roof_Flat"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 1,
+      "name": "Wood_Tropicalwood_Roof_Flat"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 2,
+      "name": "Wood_Tropicalwood_Planks_Half",
+      "rotation": 4
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -2,
+      "name": "Wood_Tropicalwood_Planks_Half",
+      "rotation": 6
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -1,
+      "name": "Wood_Tropicalwood_Roof_Flat",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 0,
+      "name": "Wood_Jungle_Trunk_Full",
+      "support": 15
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 0,
+      "name": "Plant_Vine_Green_Hanging"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 0,
+      "name": "Plant_Vine_Green_Hanging",
+      "filler": 1024
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 0,
+      "name": "Plant_Vine_Green_Hanging"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 0,
+      "name": "Plant_Vine_Green_Hanging",
+      "filler": 1024
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 0,
+      "name": "Plant_Vine_Green_Hanging"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 0,
+      "name": "Plant_Vine_Green_Hanging",
+      "filler": 1024
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 0,
+      "name": "Plant_Vine_Green_Hanging"
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": 0,
+      "name": "Plant_Vine_Green_Hanging",
+      "filler": 1024
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "z": 0,
+      "name": "Plant_Vine_Green_Hanging"
+    },
+    {
+      "x": 3,
+      "y": 10,
+      "z": 0,
+      "name": "Plant_Vine_Green_Hanging",
+      "filler": 1024
+    },
+    {
+      "x": 3,
+      "y": 11,
+      "z": 0,
+      "name": "Plant_Vine_Green_Hanging"
+    },
+    {
+      "x": 3,
+      "y": 12,
+      "z": 0,
+      "name": "Plant_Vine_Green_Hanging",
+      "filler": 1024
+    },
+    {
+      "x": 3,
+      "y": 13,
+      "z": 0,
+      "name": "Plant_Vine_Green_Hanging"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 1,
+      "name": "Wood_Tropicalwood_Roof_Flat"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 2,
+      "name": "Wood_Tropicalwood_Planks_Half",
+      "rotation": 4
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -2,
+      "name": "Wood_Tropicalwood_Planks_Half",
+      "rotation": 6
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -1,
+      "name": "Wood_Tropicalwood_Roof_Flat",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 0,
+      "name": "Wood_Tropicalwood_Roof_Flat",
+      "rotation": 2
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 1,
+      "name": "Wood_Tropicalwood_Roof_Flat"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 2,
+      "name": "Wood_Tropicalwood_Planks_Half",
+      "rotation": 4
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -1,
+      "name": "Wood_Tropicalwood_Planks_Half",
+      "rotation": 5
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 0,
+      "name": "Wood_Tropicalwood_Planks_Half",
+      "rotation": 5
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 1,
+      "name": "Wood_Tropicalwood_Planks_Half",
+      "rotation": 5
+    }
+  ],
+  "entities": [
+    {
+      "Components": {
+        "PreventItemMerging": {},
+        "Prop": {},
+        "Transform": {
+          "Position": {
+            "X": 2.53094482421875,
+            "Y": 0.3380279541015625,
+            "Z": 1.386505126953125
+          },
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": 1.591503381729126,
+            "Roll": 0.0
+          }
+        },
+        "PreventPickup": {},
+        "EntityScale": {
+          "Scale": 3.9000000953674316
+        },
+        "Item": {
+          "Item": {
+            "Id": "Egg_Spawner_Kweebec_Razorleaf",
+            "Quantity": 1,
+            "Durability": 0.0,
+            "MaxDurability": 0.0,
+            "OverrideDroppedItemAnimation": true
+          },
+          "StackDelay": 1.5,
+          "PickupDelay": 0.5,
+          "PickupThrottle": 0.0,
+          "RemovedByPlayerPickup": false
+        },
+        "PrefabCopyable": {},
+        "HeadRotation": {
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": 1.591503381729126,
+            "Roll": 0.0
+          }
+        }
+      }
+    },
+    {
+      "Components": {
+        "PreventItemMerging": {},
+        "Prop": {},
+        "Transform": {
+          "Position": {
+            "X": 4.30029296875,
+            "Y": 0.358795166015625,
+            "Z": -0.466278076171875
+          },
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": 1.7194809913635254,
+            "Roll": 0.0
+          }
+        },
+        "PreventPickup": {},
+        "EntityScale": {
+          "Scale": 2.5999999046325684
+        },
+        "Item": {
+          "Item": {
+            "Id": "Egg_Spawner_Kweebec_Razorleaf",
+            "Quantity": 1,
+            "Durability": 0.0,
+            "MaxDurability": 0.0,
+            "OverrideDroppedItemAnimation": true
+          },
+          "StackDelay": 1.5,
+          "PickupDelay": 0.5,
+          "PickupThrottle": 0.0,
+          "RemovedByPlayerPickup": false
+        },
+        "PrefabCopyable": {},
+        "HeadRotation": {
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": 1.7194809913635254,
+            "Roll": 0.0
+          }
+        }
+      }
+    }
+  ]
+}

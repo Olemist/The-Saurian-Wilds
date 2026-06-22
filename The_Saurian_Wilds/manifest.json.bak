@@ -1,0 +1,13 @@
+{
+  "Group": "olegro",
+  "Name": "Biomes",
+  "Version": "1.0.0",
+  "Authors": [],
+  "ServerVersion": "*",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false,
+  "SubPlugins": []
+}

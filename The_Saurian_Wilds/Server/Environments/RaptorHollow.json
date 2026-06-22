@@ -1,0 +1,155 @@
+{
+  "Parent": "Env_Zone1",
+  "Tags": {
+    "Zone1": [
+      "Azure"
+    ]
+  },
+  "WaterTint": "#7ccce5",
+  "WeatherForecasts": {
+    "0": [
+      {
+        "WeatherId": "Deneme1",
+        "Weight": 100
+      }
+    ],
+    "1": [
+      {
+        "WeatherId": "Deneme1",
+        "Weight": 100
+      }
+    ],
+    "2": [
+      {
+        "WeatherId": "Deneme1",
+        "Weight": 100
+      }
+    ],
+    "3": [
+      {
+        "WeatherId": "Deneme1",
+        "Weight": 100
+      }
+    ],
+    "4": [
+      {
+        "WeatherId": "Deneme1",
+        "Weight": 100
+      }
+    ],
+    "5": [
+      {
+        "WeatherId": "Deneme1",
+        "Weight": 100
+      }
+    ],
+    "6": [
+      {
+        "WeatherId": "Deneme1",
+        "Weight": 100
+      }
+    ],
+    "7": [
+      {
+        "WeatherId": "Deneme1",
+        "Weight": 100
+      }
+    ],
+    "8": [
+      {
+        "WeatherId": "Deneme1",
+        "Weight": 100
+      }
+    ],
+    "9": [
+      {
+        "WeatherId": "Deneme1",
+        "Weight": 100
+      }
+    ],
+    "10": [
+      {
+        "WeatherId": "Deneme1",
+        "Weight": 100
+      }
+    ],
+    "11": [
+      {
+        "WeatherId": "Deneme1",
+        "Weight": 100
+      }
+    ],
+    "12": [
+      {
+        "WeatherId": "Deneme1",
+        "Weight": 100
+      }
+    ],
+    "13": [
+      {
+        "WeatherId": "Deneme1",
+        "Weight": 100
+      }
+    ],
+    "14": [
+      {
+        "WeatherId": "Deneme1",
+        "Weight": 100
+      }
+    ],
+    "15": [
+      {
+        "WeatherId": "Deneme1",
+        "Weight": 100
+      }
+    ],
+    "16": [
+      {
+        "WeatherId": "Deneme1",
+        "Weight": 100
+      }
+    ],
+    "17": [
+      {
+        "WeatherId": "Deneme1",
+        "Weight": 100
+      }
+    ],
+    "18": [
+      {
+        "WeatherId": "Deneme1",
+        "Weight": 100
+      }
+    ],
+    "19": [
+      {
+        "WeatherId": "Deneme1",
+        "Weight": 100
+      }
+    ],
+    "20": [
+      {
+        "WeatherId": "Deneme1",
+        "Weight": 100
+      }
+    ],
+    "21": [
+      {
+        "WeatherId": "Deneme1",
+        "Weight": 100
+      }
+    ],
+    "22": [
+      {
+        "WeatherId": "Deneme1",
+        "Weight": 100
+      }
+    ],
+    "23": [
+      {
+        "WeatherId": "Deneme1",
+        "Weight": 100
+      }
+    ]
+  }
+}

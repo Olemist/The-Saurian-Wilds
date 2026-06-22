@@ -1,0 +1,21 @@
+{
+  "Group": "olegro",
+  "Name": "The_Saurian_Wilds",
+  "Version": "1.0.0",
+  "Description": "",
+  "Authors": [
+    {
+      "Name": "olegro",
+      "Email": "",
+      "Url": ""
+    }
+  ],
+  "Website": "",
+  "ServerVersion": ">=0.5.6 <0.6.0",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false,
+  "SubPlugins": []
+}

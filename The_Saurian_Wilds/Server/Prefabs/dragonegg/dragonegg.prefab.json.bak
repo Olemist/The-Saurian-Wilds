@@ -1,0 +1,747 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": -1,
+  "anchorY": 12,
+  "anchorZ": 2,
+  "blocks": [
+    {
+      "x": -5,
+      "y": -1,
+      "z": -2,
+      "name": "Wood_Ash_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": -2,
+      "name": "Plant_Vine_Green_Hanging"
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": -2,
+      "name": "Plant_Vine_Green_Hanging",
+      "filler": 1024
+    },
+    {
+      "x": -5,
+      "y": 2,
+      "z": -2,
+      "name": "Plant_Vine_Green_Hanging"
+    },
+    {
+      "x": -5,
+      "y": 3,
+      "z": -2,
+      "name": "Plant_Vine_Green_Hanging",
+      "filler": 1024
+    },
+    {
+      "x": -5,
+      "y": 4,
+      "z": -2,
+      "name": "Plant_Vine_Green_Hanging"
+    },
+    {
+      "x": -5,
+      "y": 5,
+      "z": -2,
+      "name": "Plant_Vine_Green_Hanging",
+      "filler": 1024
+    },
+    {
+      "x": -5,
+      "y": 6,
+      "z": -2,
+      "name": "Plant_Vine_Green_Hanging"
+    },
+    {
+      "x": -5,
+      "y": 7,
+      "z": -2,
+      "name": "Plant_Vine_Green_Hanging",
+      "filler": 1024
+    },
+    {
+      "x": -5,
+      "y": 8,
+      "z": -2,
+      "name": "Plant_Vine_Green_Hanging"
+    },
+    {
+      "x": -5,
+      "y": 9,
+      "z": -2,
+      "name": "Plant_Vine_Green_Hanging",
+      "filler": 1024
+    },
+    {
+      "x": -5,
+      "y": 10,
+      "z": -2,
+      "name": "Plant_Vine_Green_Hanging"
+    },
+    {
+      "x": -5,
+      "y": 11,
+      "z": -2,
+      "name": "Plant_Vine_Green_Hanging",
+      "filler": 1024
+    },
+    {
+      "x": -5,
+      "y": 12,
+      "z": -2,
+      "name": "Plant_Vine_Green_Hanging"
+    },
+    {
+      "x": -5,
+      "y": -1,
+      "z": -1,
+      "name": "Wood_Ash_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": -1,
+      "name": "Wood_Ash_Trunk_Half",
+      "rotation": 5
+    },
+    {
+      "x": -5,
+      "y": -1,
+      "z": 0,
+      "name": "Wood_Ash_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 0,
+      "name": "Wood_Ash_Trunk_Half",
+      "rotation": 5
+    },
+    {
+      "x": -5,
+      "y": -1,
+      "z": 1,
+      "name": "Wood_Ash_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 1,
+      "name": "Wood_Ash_Trunk_Half",
+      "rotation": 5
+    },
+    {
+      "x": -5,
+      "y": -1,
+      "z": 2,
+      "name": "Wood_Ash_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 2,
+      "name": "Plant_Vine_Green_Hanging"
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "z": 2,
+      "name": "Plant_Vine_Green_Hanging",
+      "filler": 1024
+    },
+    {
+      "x": -5,
+      "y": 2,
+      "z": 2,
+      "name": "Plant_Vine_Green_Hanging"
+    },
+    {
+      "x": -5,
+      "y": 3,
+      "z": 2,
+      "name": "Plant_Vine_Green_Hanging",
+      "filler": 1024
+    },
+    {
+      "x": -5,
+      "y": 4,
+      "z": 2,
+      "name": "Plant_Vine_Green_Hanging"
+    },
+    {
+      "x": -5,
+      "y": 5,
+      "z": 2,
+      "name": "Plant_Vine_Green_Hanging",
+      "filler": 1024
+    },
+    {
+      "x": -5,
+      "y": 6,
+      "z": 2,
+      "name": "Plant_Vine_Green_Hanging"
+    },
+    {
+      "x": -5,
+      "y": 7,
+      "z": 2,
+      "name": "Plant_Vine_Green_Hanging",
+      "filler": 1024
+    },
+    {
+      "x": -5,
+      "y": 8,
+      "z": 2,
+      "name": "Plant_Vine_Green_Hanging"
+    },
+    {
+      "x": -5,
+      "y": 9,
+      "z": 2,
+      "name": "Plant_Vine_Green_Hanging",
+      "filler": 1024
+    },
+    {
+      "x": -5,
+      "y": 10,
+      "z": 2,
+      "name": "Plant_Vine_Green_Hanging"
+    },
+    {
+      "x": -5,
+      "y": 11,
+      "z": 2,
+      "name": "Plant_Vine_Green_Hanging",
+      "filler": 1024
+    },
+    {
+      "x": -5,
+      "y": 12,
+      "z": 2,
+      "name": "Plant_Vine_Green_Hanging"
+    },
+    {
+      "x": -4,
+      "y": -1,
+      "z": -2,
+      "name": "Wood_Ash_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -2,
+      "name": "Wood_Ash_Trunk_Half",
+      "rotation": 4
+    },
+    {
+      "x": -4,
+      "y": -1,
+      "z": -1,
+      "name": "Wood_Ash_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -1,
+      "name": "Wood_Tropicalwood_Roof_Flat"
+    },
+    {
+      "x": -4,
+      "y": -1,
+      "z": 0,
+      "name": "Wood_Ash_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 0,
+      "name": "Wood_Tropicalwood_Roof_Flat"
+    },
+    {
+      "x": -4,
+      "y": -1,
+      "z": 1,
+      "name": "Wood_Ash_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 1,
+      "name": "Wood_Tropicalwood_Roof_Flat"
+    },
+    {
+      "x": -4,
+      "y": -1,
+      "z": 2,
+      "name": "Wood_Ash_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 2,
+      "name": "Wood_Ash_Trunk_Half",
+      "rotation": 6
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": -2,
+      "name": "Wood_Ash_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -2,
+      "name": "Wood_Ash_Trunk_Half",
+      "rotation": 4
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": -1,
+      "name": "Wood_Ash_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -1,
+      "name": "Wood_Tropicalwood_Roof_Flat",
+      "rotation": 1
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": 0,
+      "name": "Wood_Ash_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 0,
+      "name": "Wood_Tropicalwood_Roof_Flat"
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": 1,
+      "name": "Wood_Ash_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 1,
+      "name": "Wood_Tropicalwood_Roof_Flat"
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": 2,
+      "name": "Wood_Ash_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 2,
+      "name": "Wood_Ash_Trunk_Half",
+      "rotation": 6
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": -2,
+      "name": "Wood_Ash_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -2,
+      "name": "Wood_Ash_Trunk_Half",
+      "rotation": 4
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": -1,
+      "name": "Wood_Ash_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -1,
+      "name": "Wood_Tropicalwood_Roof_Flat"
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": 0,
+      "name": "Wood_Ash_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 0,
+      "name": "Wood_Tropicalwood_Roof_Flat"
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": 1,
+      "name": "Wood_Ash_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 1,
+      "name": "Wood_Tropicalwood_Roof_Flat"
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": 2,
+      "name": "Wood_Ash_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 2,
+      "name": "Wood_Ash_Trunk_Half",
+      "rotation": 6
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": -2,
+      "name": "Wood_Ash_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -2,
+      "name": "Plant_Vine_Green_Hanging"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -2,
+      "name": "Plant_Vine_Green_Hanging",
+      "filler": 1024
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -2,
+      "name": "Plant_Vine_Green_Hanging"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -2,
+      "name": "Plant_Vine_Green_Hanging",
+      "filler": 1024
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -2,
+      "name": "Plant_Vine_Green_Hanging"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": -2,
+      "name": "Plant_Vine_Green_Hanging",
+      "filler": 1024
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": -2,
+      "name": "Plant_Vine_Green_Hanging"
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": -2,
+      "name": "Plant_Vine_Green_Hanging",
+      "filler": 1024
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": -2,
+      "name": "Plant_Vine_Green_Hanging"
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": -2,
+      "name": "Plant_Vine_Green_Hanging",
+      "filler": 1024
+    },
+    {
+      "x": -1,
+      "y": 10,
+      "z": -2,
+      "name": "Plant_Vine_Green_Hanging"
+    },
+    {
+      "x": -1,
+      "y": 11,
+      "z": -2,
+      "name": "Plant_Vine_Green_Hanging",
+      "filler": 1024
+    },
+    {
+      "x": -1,
+      "y": 12,
+      "z": -2,
+      "name": "Plant_Vine_Green_Hanging"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": -1,
+      "name": "Wood_Ash_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -1,
+      "name": "Wood_Ash_Trunk_Half",
+      "rotation": 7
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 0,
+      "name": "Wood_Ash_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 0,
+      "name": "Wood_Ash_Trunk_Half",
+      "rotation": 7
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 1,
+      "name": "Wood_Ash_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 1,
+      "name": "Wood_Ash_Trunk_Half",
+      "rotation": 7
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 2,
+      "name": "Wood_Ash_Trunk_Half",
+      "rotation": 8
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 2,
+      "name": "Plant_Vine_Green_Hanging"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 2,
+      "name": "Plant_Vine_Green_Hanging",
+      "filler": 1024
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 2,
+      "name": "Plant_Vine_Green_Hanging"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 2,
+      "name": "Plant_Vine_Green_Hanging",
+      "filler": 1024
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 2,
+      "name": "Plant_Vine_Green_Hanging"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 2,
+      "name": "Plant_Vine_Green_Hanging",
+      "filler": 1024
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": 2,
+      "name": "Plant_Vine_Green_Hanging"
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": 2,
+      "name": "Plant_Vine_Green_Hanging",
+      "filler": 1024
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": 2,
+      "name": "Plant_Vine_Green_Hanging"
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": 2,
+      "name": "Plant_Vine_Green_Hanging",
+      "filler": 1024
+    },
+    {
+      "x": -1,
+      "y": 10,
+      "z": 2,
+      "name": "Plant_Vine_Green_Hanging"
+    },
+    {
+      "x": -1,
+      "y": 11,
+      "z": 2,
+      "name": "Plant_Vine_Green_Hanging",
+      "filler": 1024
+    },
+    {
+      "x": -1,
+      "y": 12,
+      "z": 2,
+      "name": "Plant_Vine_Green_Hanging"
+    }
+  ],
+  "entities": [
+    {
+      "Components": {
+        "PreventItemMerging": {},
+        "Prop": {},
+        "Transform": {
+          "Position": {
+            "X": -2.81219482421875,
+            "Y": 0.38288116455078125,
+            "Z": 1.196258544921875
+          },
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": -0.2090887725353241,
+            "Roll": 0.0
+          }
+        },
+        "PreventPickup": {},
+        "EntityScale": {
+          "Scale": 5.0
+        },
+        "Item": {
+          "Item": {
+            "Id": "Egg_Spawner_Sheep",
+            "Quantity": 1,
+            "Durability": 0.0,
+            "MaxDurability": 0.0,
+            "OverrideDroppedItemAnimation": true
+          },
+          "StackDelay": 1.5,
+          "PickupDelay": 0.5,
+          "PickupThrottle": 0.0,
+          "RemovedByPlayerPickup": false
+        },
+        "PrefabCopyable": {},
+        "HeadRotation": {
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": -0.2090887725353241,
+            "Roll": 0.0
+          }
+        }
+      }
+    },
+    {
+      "Components": {
+        "PreventItemMerging": {},
+        "Prop": {},
+        "Transform": {
+          "Position": {
+            "X": -1.88970947265625,
+            "Y": 0.3441162109375,
+            "Z": 0.074951171875
+          },
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": -1.5210319757461548,
+            "Roll": 0.0
+          }
+        },
+        "PreventPickup": {},
+        "EntityScale": {
+          "Scale": 5.0
+        },
+        "Item": {
+          "Item": {
+            "Id": "Egg_Spawner_Sheep",
+            "Quantity": 1,
+            "Durability": 0.0,
+            "MaxDurability": 0.0,
+            "OverrideDroppedItemAnimation": true
+          },
+          "StackDelay": 1.5,
+          "PickupDelay": 0.5,
+          "PickupThrottle": 0.0,
+          "RemovedByPlayerPickup": false
+        },
+        "PrefabCopyable": {},
+        "HeadRotation": {
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": -1.5210316181182861,
+            "Roll": 0.0
+          }
+        }
+      }
+    }
+  ]
+}

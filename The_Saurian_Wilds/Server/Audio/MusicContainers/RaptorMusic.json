@@ -1,0 +1,90 @@
+{
+  "Type": "Random",
+  "AudioCategory": "AudioCat_Music_In_Game",
+  "Mode": "Random",
+  "LoopCount": 0,
+  "AvoidRepeatCount": 5,
+  "Children": [
+    {
+      "Parent": "Track_Z1_Cave_01",
+      "SilenceAfter": {
+        "Min": 10,
+        "Max": 20
+      }
+    },
+    {
+      "Parent": "Track_Z1_Cave_02",
+      "SilenceAfter": {
+        "Min": 10,
+        "Max": 20
+      }
+    },
+    {
+      "Parent": "Track_Z1_Cave_03",
+      "SilenceAfter": {
+        "Min": 10,
+        "Max": 20
+      }
+    },
+    {
+      "Parent": "Track_Z1_Cave_04",
+      "SilenceAfter": {
+        "Min": 10,
+        "Max": 20
+      }
+    },
+    {
+      "Parent": "Track_Z1_Cave_05",
+      "SilenceAfter": {
+        "Min": 10,
+        "Max": 20
+      }
+    },
+    {
+      "Parent": "Track_Z1_Cave_06",
+      "SilenceAfter": {
+        "Min": 10,
+        "Max": 20
+      }
+    },
+    {
+      "Parent": "Track_Z1_Cave_07",
+      "SilenceAfter": {
+        "Min": 10,
+        "Max": 20
+      }
+    },
+    {
+      "Parent": "Track_Z2_Cave_04",
+      "SilenceAfter": {
+        "Min": 10,
+        "Max": 20
+      }
+    },
+    {
+      "Parent": "Track_Z2_Cave_06",
+      "SilenceAfter": {
+        "Min": 10,
+        "Max": 20
+      }
+    },
+    {
+      "Parent": "Track_Z3_Cave_02",
+      "SilenceAfter": {
+        "Min": 10,
+        "Max": 20
+      }
+    },
+    {
+      "Parent": "Track_Z3_Cave_03",
+      "SilenceAfter": {
+        "Min": 10,
+        "Max": 20
+      }
+    },
+    {
+      "Parent": "Track_Silence",
+      "Weight": 1.50
+    }
+  ]
+}
